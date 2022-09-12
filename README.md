@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathF78
 - 👀 I’m interested in cybersecurity and IT in general
-- 🌱 I’m currently learning Computer Science in Enseeiht engineer School
+- 🌱 I’m currently learning Computer Science at Enseeiht engineer School
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathF78&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
