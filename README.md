@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Computer Science at Enseeiht engineer School
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathF78&exclude_repo=nathan-portfolio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathF78&exclude_repo=nathF78.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
